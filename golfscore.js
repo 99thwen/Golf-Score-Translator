@@ -1,4 +1,3 @@
-You said
 const names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
 function golfcore(par, strokes){
  if(strokes == 1){
